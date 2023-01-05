@@ -1,5 +1,4 @@
 # Receiver Optimization
-Receiver Optimization Article
 
 Title: Gradient-based optimization of micro-scale pressurized volumetric receiver geometry and flow rate
 
